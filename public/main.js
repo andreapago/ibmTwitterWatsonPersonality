@@ -1,8 +1,3 @@
-// Copyright IBM Corp. 2015  All Rights Reserved.
-// IBM Insights for Twitter Demo App
-
-// optimized for speed
-
 var cellColors = [ "689fd5", "87b2dd", "a3c4e5", "c7ddf3", "e1edfb" ];
 
 function getCellColor(depth) {

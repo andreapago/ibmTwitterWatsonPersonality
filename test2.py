@@ -1,4 +1,4 @@
-__author__ = 'delta'
+__author__ = 'andrea'
 
 
 
@@ -307,26 +307,6 @@ class PersonalityShower(object):
                     </table>
                 </div>'''
         return webPage
-
-
-#      {
-#   "contentItems": [
-#     {
-#       "id": "",
-#       "userid": "",
-#       "sourceid": "",
-#       "created": "int",
-#       "updated": "int",
-#       "contenttype": "",
-#       "charset": "",
-#       "language": "",
-#       "content": "",
-#       "parentid": "",
-#       "reply": false,
-#       "forward": false
-#     }
-#   ]
-# }
 
 
 
